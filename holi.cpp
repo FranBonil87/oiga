@@ -4,7 +4,10 @@ using namespace std;
 
 int main(void)
 {
-    cout<<"holi"<<endl;
+    cout<<"holi33"<<endl;
+
+cout<<"holi33"<<endl;cout<<"holi33"<<endl;cout<<"holi33"<<endl;cout<<"holi33"<<endl;
+    
 
     return 0;
 }
