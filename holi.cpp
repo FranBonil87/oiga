@@ -6,8 +6,5 @@ int main(void)
 {
     cout<<"holi33"<<endl;
 
-cout<<"holi33"<<endl;cout<<"holi33"<<endl;cout<<"holi33"<<endl;cout<<"holi33"<<endl;
-    
-
     return 0;
 }
